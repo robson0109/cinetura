@@ -10,7 +10,7 @@
 
 <item>
 <title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Cinetura[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=stremURL&amp;url=https://drive.google.com/file/d/1LQYV-fPgNjzqyOXh1sQ8AQI__MBLyDuL/view$$lsname=[COLOR orange]|HD|[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=stremURL&amp;url=https://drive.google.com/uc?id=1LQYV-fPgNjzqyOXh1sQ8AQI__MBLyDuL&export=download$$lsname=[COLOR orange]|HD|[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=stremURL&amp;url=https://drive.google.com/file/d/1LQYV-fPgNjzqyOXh1sQ8AQI__MBLyDuL/view$$lsname=[COLOR orange]|SD|[/COLOR] - LINK 2</link>
 <link>https://drive.google.com/file/d/1LQYV-fPgNjzqyOXh1sQ8AQI__MBLyDuL/view$$lsname=[COLOR orange]|DG|[/COLOR] - LINK 3</link>
 <thumbnail>https://i.imgur.com/mwBUh6P.png</thumbnail>
