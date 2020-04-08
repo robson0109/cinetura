@@ -1,17 +1,12 @@
 <? xml version = "1.0" encoding = "utf-8"?>
 
-<item>
-<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Roma - 1ª  temporada[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:433f34d40e433028015719e438a8966a493e8b94&amp</link>
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Roma[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
 <thumbnail>https://media.fstatic.com/n0rReS3ux5daDGWZC4sHrYGPTiQ=/fit-in/290x478/smart/media/movies/covers/2016/10/5b7o92.jpg</thumbnail>
+<externallink>https://</externallink>
 <fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
-<info>É baseada em acontecimentos históricos na antiga Roma entre os anos 52 e 44 a.C. Inicia com a vitória de Júlio César na batalha de Alésia e acaba com seu assassinato. Na primeira temporada são 12 episódios nos quais a Antiga Roma é retratada com a maior precisão possível baseada no conhecimento histórico disponível, incluindo a cultura, os costumes e as crenças dos antigos romanos. Destaca-se o final do último episódio, no qual Julio César é assassinado por um grupo de senadores no próprio Senado.</info>
-</item>
-
-<item>
-<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Roma - 2ª  temporada[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:4b5fd6232eb4dbbc2da20af8451c7a65119ad7f5&amp</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Rome-season-1-poster.jpg/200px-Rome-season-1-poster.jpg</thumbnail>
-<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
-<info>O bravo Júlio César foi cruelmente assassinado e a agora a guerra civil ameaça destruir a República. Numa disputa de egos, inúmeros sucessores pleiteiam o cargo deixado por César. É então que Marco Antônio tenta consolidar seu poder se aliando a Atia. O conspirador Brutus tenta ganhar a simpatia do povo, que antes o condenou como assassino. Enquanto isso, Tito Pulo se esforça para tirar seu amigo, Lúcio Voreno, da escuridão que envolveu sua vida após uma tragédia pessoal. Otavio, sobrinho de César, ao descobrir que é o herdeiro de Júlio César, começa a sua busca pelo poder.</info>
-</item>
+<info>Dois soldados romanos se veem em meio a acontecimentos históricos de uma era que incluiu a morte da república e o nascimento de um império. Os heróis enfrentam guerras, intrigas políticas, assassinatos e tragédias familiares.
+</info>
+</channel>
+</channels>
