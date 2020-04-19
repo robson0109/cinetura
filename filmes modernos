@@ -65,12 +65,29 @@
 <info>Elizabeth Bennet vive com sua mãe, pai e irmãs no campo, na Inglaterra. Por ser a filha mais velha, ela enfrenta uma crescente pressão de seus pais para se casar. Quando Elizabeth é apresentada ao belo e rico Darcy, faíscas voam. Embora haja uma química óbvia entre os dois, a natureza excessivamente reservada de Darcy ameaça a relação.</info>
 </item>
 
-<channels>
-<channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]O senhor dos anéis[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
-<thumbnail>https://i.imgur.com/rkfVsoF.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/senhoraneis</externallink>
-<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
-<info>O Senhor dos Anéis é uma trilogia cinematográfica dirigida por Peter Jackson com base na obra-prima homónima de J. R. R. Tolkien. Apesar de seguirem a linha-mestra da trilogia, os filmes possuem inserções e desvios com relação ao material original.</info>
-</channel>
-</channels>
+<item>
+<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]O SENHOR DOS ANÉIS - A SOCIEDADE DO ANEL[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
+<thumbnail>https://i.imgur.com/Av3xs2X.jpg</thumbnail>
+<fanart>https://i.imgur.com/1cK9ABh.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1jJJJwdqWJcAD_mI_p-qmOtOUcvuAR-Ou</link>
+<info>O Senhor dos Anéis: O Retorno do Rei – Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.<info>
+<genre>Ação / Aventura / Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]O SENHOR DOS ANÉIS - AS DUAS TORRES[[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
+<thumbnail>https://i.imgur.com/4yQiYVB.jpg</thumbnail>
+<fanart>https://i.imgur.com/TB58rmT.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1KazxPd8X1HJmvhmidX0GOGw_eWEf3-QV</link>
+<info>O Senhor dos Anéis: As Duas Torres – Frodo, seus amigos e os contínuos esforços para destruir o anel. Frodo e Sam descobrem que estão sendo seguidos pelo misterioso Gollum. Enquanto iso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.<info>
+<genre>Aventura / Drama / Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]O SENHOR DOS ANÉIS - O RETORNO DO REI[[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
+<thumbnail>https://i.imgur.com/xaEVvZX.jpg</thumbnail>
+<fanart>https://i.imgur.com/my9CwmQ.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1qQ9vIluNg5YgSAbdXojksll_KO7B3V9s</link>
+<info>O Senhor dos Anéis: O Retorno do Rei – Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.<info>
+<genre>Ação / Aventura / Drama / Fantasia</genre>
+</item>
