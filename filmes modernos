@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR indigo]|||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Hobbit: uma jornada inesperada[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:b7bd7fabdf010b197164c93925e2d26e2c851a8c&amp</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b7bd7fabdf010b197164c93925e2d26e2c851a8c</link>
 <thumbnail>https://i.imgur.com/HS0kgfG.jpg</thumbnail>
 <fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
 <info>Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug.</info>
@@ -10,7 +10,7 @@
 
 <item>
 <title>[COLOR indigo]|||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]As crônicas de Nárnia: o leão, a feiticeira e o guarda-roupa[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:6a4c71e6e8b366988b07e7d579fcfb27705b9ec2&amp</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6a4c71e6e8b366988b07e7d579fcfb27705b9ec2</link>
 <thumbnail>http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/90/59/44/20103781.jpg</thumbnail>
 <fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
 <info>Lúcia (Georgie Henley), Susana (Anna Popplewell), Edmundo (Skandar Keynes) e Pedro (William Moseley) são quatro irmãos que vivem na Inglaterra, em plena 2ª Guerra Mundial. Eles vivem na propriedade rural de um professor misterioso, onde costumam brincar de esconde-esconde. Em uma de suas brincadeiras eles descobrem um guarda-roupa mágico, que leva quem o atravessa ao mundo mágico de Nárnia. Este novo mundo é habitado por seres estranhos, como centauros e gigantes, que já foi pacífico mas hoje vive sob a maldição da Feiticeira Branca, Jadis (Tilda Swinton), que fez com que o local sempre estivesse em um pesado inverno. Sob a orientação do leão Aslam, que governa Nárnia, as crianças decidem ajudar na luta para libertar este mundo do domínio de Jadis.</info>
@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]As crônicas de Nárnia: Príncipe Caspian[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:aae15fd359017420e393ba7854346f3e0a61061f&amp</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:aae15fd359017420e393ba7854346f3e0a61061f</link>
 <thumbnail>https://i.imgur.com/UctdIlc.jpg</thumbnail>
 <fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
 <info>Um ano após a sua última aventura, os irmãos Pevensie regressam à terra mágica de Nárnia e descobrem que 1300 anos se passaram. Nárnia está em guerra novamente e os irmãos unem forças com o Príncipe Caspian para derrotar o maldoso Rei Miraz e restaurar a paz.</info>
@@ -46,7 +46,7 @@
 <thumbnail>https://i.imgur.com/TSFaB3i.png</thumbnail>
 <fanart>https://i.imgur.com/j6h4ER7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1fMq3CT7fUhznpubWuJcqAxxAHg_3hIuI</link>
-<info>Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima ao local. Após muita destruição, Bard (Luke Evans) consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados nas riquezas que existem dentro de Erebor. Entretanto, Thorin (Richard Armitage) está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro (Martin Freeman) e Gandalf (Ian McKellen) tentam impedir a guerra. <info>
+<info>Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima ao local. Após muita destruição, Bard (Luke Evans) consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados nas riquezas que existem dentro de Erebor. Entretanto, Thorin (Richard Armitage) está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro (Martin Freeman) e Gandalf (Ian McKellen) tentam impedir a guerra.<info>
 <genre>Aventura / Fantasia</genre>
 </item>
 
