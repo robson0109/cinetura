@@ -21,5 +21,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Outlander[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1f/Outlander_2014.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/outlander</externallink>
+<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
+<info>Nesse conto épico, um guerreiro e uma enfermeira vivem uma paixão avassaladora, mas 200 anos os separam.</info>
+</channel>
+</channels>
+
 
 
