@@ -44,14 +44,28 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Músicas[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
-<thumbnail>https://i.imgur.com/mwBUh6P.png</thumbnail>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Sala de músicas Leon Trotsky[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/5Pvvk7t.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/musicas</externallink>
-<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
+<fanart>https://i.imgur.com/oKcbyds.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]||[/COLOR] - Aquelas músicas que valem a pena ser ouvidas! - [COLOR deeppink]||[/COLOR]</info>
+[COLOR deeppink]||[/COLOR]"Se o capitalismo é incapaz de satisfazer as reivindicações que surgem infalivelmente dos males que ele mesmo engendrou, então que morra!"[COLOR deeppink]||[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Sala de vídeos Vladimir Ilyich Ulianov Lenin[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/XVRsbO2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/musicas</externallink>
+<fanart>https://i.imgur.com/5aDvvaF.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]||[/COLOR]“A análise concreta da situação concreta é a alma viva, a essência do marxismo.”[COLOR deeppink]||[/COLOR]</info>
+</channel>
+</channels>
+
 
