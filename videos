@@ -10,3 +10,13 @@
 <dir>Kenneth Branagh</dir>
 <age>1989</age>
 </item>
+
+<? xml version = "1.0" encoding = "utf-8"?>
+
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Antiguidade[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<thumbnail>https://i.imgur.com/mwBUh6P.png</thumbnail>
+<utube>PL6exWLai3Il3mNY0d5n0rQU1ZtMh-FVCX</utube>
+<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
+<info>
