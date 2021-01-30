@@ -16,10 +16,12 @@
 <info>Em uma pequena cidade que mistura sonhadores, artistas e pessoas comuns, este drama multigeracional sobre família e amizade gira em torno da relação de Lorelai Gilmore e sua filha, Rory.</info>
 </item>
 
-<item>
-<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]The Shinner[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>https://raw.githubusercontent.com/robson0109/cinetura/master/shinner</link>
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]The Shinner[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w185/jFcxMLCAA7XHYeGOLaouyqChRhY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/shinner</externallink>
 <fanart>https://i.imgur.com/bwydEwu.jpg</fanart>
 <info>The Sinner é uma série de antologia que explora as razões pelas quais as mais diferentes pessoas cometem atrocidades. A trama acompanha Harry Ambrose (Bill Pullman), um detetive que precisa usar todas as suas habilidades investigativas para solucionar crimes brutais. Apesar de sua vasta experiência, ele descobre que cada um de seus casos esconde mais segredos e mentiras do que ele imagina. Afinal, nem tudo é o que parece ser na busca por um culpado.</info>
-</item>
+</channel>
+</channels>
