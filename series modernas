@@ -1,19 +1,21 @@
 <? xml version = "1.0" encoding = "utf-8"?>
 
-<item>
-<title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]A guerra dos tronos[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:286668f8058221f82adcf50fd12564afbf133447&amp</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/03/21/16/15/4239577.jpg</thumbnail>
-<fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
-<info>Sucesso entre os livros mais vendidos, a série de obras "A Song of Ice and Fire", de George R.R. Martin, é levada à tela quando HBO decide navegar a fundo pelo gênero e recriar a fantasia medieval épica. Este é o retrato de duas famílias poderosas - reis e rainhas, cavaleiros e renegados, homens honestos e mentirosos - disputando um jogo mortal pelo controle dos Sete Reinos de Westeros para assumir o Trono de Ferro. A série foi filmada em Malta e no norte da Irlanda, tendo participação do escritor dos livros.</info>
-</item>
+<channels>
+    <channel>
+    <title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]A guerra dos tronos[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
+    <externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/trenoLenin</externallink>
+    <thumbnail>https://br.web.img3.acsta.net/pictures/19/03/21/16/15/4239577.jpg</thumbnail>
+    <fanart>https://i.imgur.com/urwRTbR.jpg</fanart>
+    <info>Sucesso entre os livros mais vendidos, a série de obras "A Song of Ice and Fire", de George R.R. Martin, é levada à tela quando HBO decide navegar a fundo pelo gênero e recriar a fantasia medieval épica. Este é o retrato de duas famílias poderosas - reis e rainhas, cavaleiros e renegados, homens honestos e mentirosos - disputando um jogo mortal pelo controle dos Sete Reinos de Westeros para assumir o Trono de Ferro. A série foi filmada em Malta e no norte da Irlanda, tendo participação do escritor dos livros.</info>
+    </channel>
+</channels>
 
 <channels>
-<channel>
-<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]The Shinner[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w185/jFcxMLCAA7XHYeGOLaouyqChRhY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/shinner</externallink>
-<fanart>https://i.imgur.com/bwydEwu.jpg</fanart>
-<info>The Sinner é uma série de antologia que explora as razões pelas quais as mais diferentes pessoas cometem atrocidades. A trama acompanha Harry Ambrose (Bill Pullman), um detetive que precisa usar todas as suas habilidades investigativas para solucionar crimes brutais. Apesar de sua vasta experiência, ele descobre que cada um de seus casos esconde mais segredos e mentiras do que ele imagina. Afinal, nem tudo é o que parece ser na busca por um culpado.</info>
-</channel>
+    <channel>
+    <name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]The Shinner[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+    <thumbnail>https://image.tmdb.org/t/p/w185/jFcxMLCAA7XHYeGOLaouyqChRhY.jpg</thumbnail>
+    <externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/shinner</externallink>
+    <fanart>https://i.imgur.com/bwydEwu.jpg</fanart>
+    <info>The Sinner é uma série de antologia que explora as razões pelas quais as mais diferentes pessoas cometem atrocidades. A trama acompanha Harry Ambrose (Bill Pullman), um detetive que precisa usar todas as suas habilidades investigativas para solucionar crimes brutais. Apesar de sua vasta experiência, ele descobre que cada um de seus casos esconde mais segredos e mentiras do que ele imagina. Afinal, nem tudo é o que parece ser na busca por um culpado.</info>
+    </channel>
 </channels>
