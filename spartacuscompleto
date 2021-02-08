@@ -1,4 +1,6 @@
-item>
+<? xml version = "1.0" encoding = "utf-8"?>
+
+<item>
 <title>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Todas temporadas[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</title>
 <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0ad4de594b7c8188cfa1502f7e9f0bf51e87bb2b</link>
 <thumbnail>https://i.imgur.com/UN2wlX3.png</thumbnail>
