@@ -44,3 +44,13 @@ A Alemanha concede a autorização de trânsito do vagão selado, ou seja, um va
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]Dickinson[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR indigo]||[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/robson0109/cinetura/master/dickinson</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3tvm4WdGKw3Db0sMh9Pt4dckePn.jpg</thumbnail>
+<fanart>https://i.imgur.com/voT1awC.jpg</fanart>
+<info>Hailee Steinfeld é Emily Dickinson: poeta, filha e rebelde. Nesta história de passagem à vida adulta, Emily quer ser a maior escritora de poesia do mundo.</info>
+</channel>
+</channels>
+
